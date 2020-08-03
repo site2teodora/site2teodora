@@ -1,0 +1,197 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+header {
+    background-color: #0F2622;
+    color: white;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito Sans",-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #484848;
+}
+footer {
+    background-color: #2F736C;
+    float: left;
+    width: 100%;
+    height: 8%;
+    color: bdf2db;
+}
+li {
+    float: left;
+    padding: 20 10 20 10;
+    height: 20px;
+}
+section {
+    padding: 20px;
+    float: left;
+}
+
+
+
+#acao {
+    color: white;
+    border-radius: 5px; 
+    border: 2px #4EBFB4 solid;
+    background-color: #4EBFB4;
+    margin-top: 1%;
+    margin: auto;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+#acao:hover {
+    color: white;
+    border-radius: 5px; 
+    border: 2px #bdf2db solid;
+    background-color:#2E9AA6;
+    margin-top: 1%;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+#capa {
+    background: url("img/fundo_dna.jpg");
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+#logo {
+    width: 50px;
+    position: absolute;
+    top: 10px;
+    margin-left: 5%;
+}
+#menu {
+    float: right;
+    margin-right: 5%;
+    list-style: none;
+    margin-top: 0px;
+}
+#menucor:hover {
+    background-color: #79d9cf;
+}
+#ods3 {
+    text-align: center;
+    padding-bottom: 2%;
+}
+#perfil {
+    padding-top: 10%;
+    padding-bottom: 2%;
+}
+#redesocial {
+    list-style: none;
+
+}
+#subtitulo {
+    color: #0F2622;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid white;
+    padding-top: 2%;
+}
+#subtitulo2 {
+    color: 0F2622;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+#titulo {
+    color: #0F2622;
+    padding-top: 18%;
+    font-size: 70px;
+    line-height: 0.6;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#video {
+    width: 100%;
+    height: 315;
+    padding-top: 10%;
+}
+
+
+   
+.borda10 {
+    padding-right:10%;
+    padding-left: 10%;
+}
+.bottom3 {
+    padding-bottom: 3%;
+}
+.bottom{
+    padding-bottom: 5%;
+}
+.centralizado {
+    text-align: center;
+}
+.coluna {
+    float: left;
+    padding: 0 5%;
+    position: relative;
+}
+.destaque {
+    background-color: #f7f7f7;
+}
+.dois {
+    width: 40%;
+}
+.doistercos {
+    width: 27%;
+    padding: 0 3%;
+}
+.end {
+    text-align: end;
+}
+.fontepqn {
+    font-size: x-small;
+}
+.fontegrande {
+    font-size: 15px;
+}
+.icone {
+    width: 51px;
+}
+.imgeco {
+    width: 100%;
+    height: 35%;
+}
+.italico {
+    font-style: italic;
+}
+.metas {
+    color: #0F2622;
+    font-weight: lighter;
+    font-style: italic;
+}
+.quatro {
+    width: 15%;
+}
+.justificado {
+    text-align: justify;
+}
+.top2 {
+    padding-top: 2%;
+}
+.top5 {
+    padding-top: 5%;
+}
+.tres {
+    width: 29%;
+    padding: 0 2%;
+}
+
+
+
+[lj-type="stage"] {
+    margin: auto;
+}
+
+
